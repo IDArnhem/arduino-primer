@@ -29,11 +29,11 @@ The Kinect introduced skeletal tracking for full-body interactions but as you ca
 ---
 electronics let us bridge the gap between the digital domain and the physical world
 ---
-## Arduino: a primer
+# Arduino: a primer
 ---
 I'm sure you have heard about this Arduino thing.
 ---
-Arduino is a microcontroller
+## Arduino is a microcontroller
 (think of it as a wee little computer if you will)
 ---
 ## A microcontroller
