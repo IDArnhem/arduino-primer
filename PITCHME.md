@@ -3,7 +3,7 @@
 ### age of interaction
 
 Note:
-open your calculator app in your phone, calculate something (anything) Didn't that feel a little glassy?
+From "A brief rant on the future of Interaction Design", 2011, Bret Victor
 +++
 ![glasspiano](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelDevice_e8h2rc.jpg)
 +++
@@ -64,37 +64,20 @@ The Kinect introduced skeletal tracking for full-body interactions but as you ca
 **and the physical world**
 ---
 # Arduino: a primer
----
++++
 I'm sure you have heard about this Arduino thing.
----
++++
 ## Arduino
 #### is a platform to program microcontrollers
 (think of it as a wee little computer if you will)
----
++++
 ## A microcontroller
 (your washing machine has one)
 
 Note:
 microcontrollers far exceed the number of computers in the world and they have been around for a very long time
----
++++
 ![sensors and actuators](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506374484/sensors_and_actuators_xhuves.png)
----
-## Sensing the world around you
-sensors and what they do
----
-## What is a sensor?
-A sensor is an electronic device that can transform a physical property of our world into an electrical signal that a computer can understand.
-
-The only thing that you need to know about a sensor for now is that it is "a value that moves through time". People in finance call that a "ticker" in EE it's called a "signal" in electronic music they call it a "control signal" but in all of them they mean "a value that moves through time".
----
-## There are (for now) two types of sensors
-We can classify them according to the kind of signal that they produce:
-  - digital (two states)
-    - shit happened (HIGH = 1)
-    - shit didn't happen (LOW = 0)
-  - analog
-    - how much of the actual shit happened
-    - it is often a number between 0 and 1024
 ---
 ## Working with Arduino
 +++
@@ -132,10 +115,28 @@ if so let's move on
 #### Blink code
 load it from the **examples > basics > Blink** menu
 +++
-### set this circuit in your breadboard
+## Sensing the world around you
+sensors and what they do
++++
+## What is a sensor?
+A sensor is an electronic device that can transform a physical property of our world into an electrical signal that a computer can understand.
+
+The only thing that you need to know about a sensor for now is that it is "a value that moves through time". People in finance call that a "ticker" in EE it's called a "signal" in electronic music they call it a "control signal" but in all of them they mean "a value that moves through time".
++++
+## There are (for now) two types of sensors
+We can classify them according to the kind of signal that they produce:
+  - digital (two states)
+    - shit happened (HIGH = 1)
+    - shit didn't happen (LOW = 0)
+  - analog
+    - how much of the actual shit happened
+    - it is often a number between 0 and 1024
++++
+### Light-level sensor
+setup your breadboard
 ![LDR sensor](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506369513/ldr_arduino_ppac8t.jpg)
 ---
-### demo
+### code
 ###### reading the LDR sensor with Arduino
 ---
 ## CHOICE
