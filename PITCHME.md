@@ -62,9 +62,9 @@ The Kinect introduced skeletal tracking for full-body interactions but as you ca
 
 ---
 ## electronics
-###### let us bridge the gap
-#### between the digital world
-#### and the physical world
+ let us bridge the gap
+###### between the digital world
+###### and the physical world
 ---
 # Arduino: a primer
 ---
