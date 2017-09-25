@@ -120,11 +120,21 @@ what are all these weird objects?
 ###### If you have problems: disable System Integrity Protection (SIP)
 [Disable SIP](https://tzapu.com/making-ch340-ch341-serial-adapters-work-under-el-capitan-os-x/)
 +++
-## Verify: Can I see my Arduino in the list of ports in the IDE?
+### Verify
+###### Can I see my Arduino in the list of ports in the IDE?
 if so let's move on
++++
+### The canonical blinking LDE
+http://res.cloudinary.com/zilogtastic/image/upload/v1506374484/LED_blink_cdxeci.png
++++
+#### Blink code
+load it from the **examples > basics > Blink** menu
 +++
 ### set this circuit in your breadboard
 ![LDR sensor](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506369513/ldr_arduino_ppac8t.jpg)
+---
+### demo
+###### reading the LDR sensor with Arduino
 ---
 ### Distance
 Ultrasonic sensor
