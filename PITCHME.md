@@ -127,7 +127,7 @@ what are all these weird objects?
 if so let's move on
 +++
 ### The canonical blinking LDE
-http://res.cloudinary.com/zilogtastic/image/upload/v1506374484/LED_blink_cdxeci.png
+![blinky](http://res.cloudinary.com/zilogtastic/image/upload/v1506374484/LED_blink_cdxeci.png)
 +++
 #### Blink code
 load it from the **examples > basics > Blink** menu
