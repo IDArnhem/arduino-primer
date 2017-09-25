@@ -116,7 +116,8 @@ what are all these weird objects?
 +++
 ### What's in the IDE?
 +++
-## Mac only: Disable System Integrity Protection
+### Mac only
+###### If you have problems: disable System Integrity Protection (SIP)
 [Disable SIP](https://tzapu.com/making-ch340-ch341-serial-adapters-work-under-el-capitan-os-x/)
 +++
 ## Verify: Can I see my Arduino in the list of ports in the IDE?
