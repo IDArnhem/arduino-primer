@@ -61,7 +61,10 @@ Touchscreens, touchpads and Kinect have changed this perception a little but it 
 The Kinect introduced skeletal tracking for full-body interactions but as you can see the image that the computer has of the human is still **reductionist** at best.
 
 ---
-electronics let us bridge the gap between the digital world and the physical world
+## electronics
+###### let us bridge the gap
+#### between the digital world
+#### and the physical world
 ---
 # Arduino: a primer
 ---
