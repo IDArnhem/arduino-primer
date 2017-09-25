@@ -77,7 +77,8 @@ I'm sure you have heard about this Arduino thing.
 ## A microcontroller
 (your washing machine has one)
 
-notes: microcontrollers far exceed the number of computers in the world and they have been around for a very long time
+Note:
+microcontrollers far exceed the number of computers in the world and they have been around for a very long time
 ---
 ![sensors and actuators](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506374484/sensors_and_actuators_xhuves.png)
 ---
