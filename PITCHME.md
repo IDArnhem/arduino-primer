@@ -60,8 +60,20 @@ We can classify them according to the kind of signal that they produce:
 ---
 ## Working with Arduino
 +++
+## Inspecting your kit
+what are all these weird objects?
++++
+#### breadboard
+![breadboard](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_420/v1506374485/breadboard_ywjkvo.png)
++++
+#### the arduino platform: the UNO
+![Arduino Uno](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506370084/arduino_uno_wwnmzi.jpg)
++++
+#### the arduino platform: the NANO
+![Arduino NANO](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_520/v1506370085/ARDUINO_NANO_03_ltdqb1.png)
++++
 ### Download and install the software (IDE)
-[get a recent version, greater than 1.8](www.arduino.cc)
+[get a recent version, greater than 1.8](https://www.arduino.cc/en/Main/Software)
 +++
 ### What's in the IDE?
 +++
@@ -70,7 +82,12 @@ We can classify them according to the kind of signal that they produce:
 +++
 ## Mac only: Disable System Integrity Protection
 [Disable SIP](https://tzapu.com/making-ch340-ch341-serial-adapters-work-under-el-capitan-os-x/)
-
++++
+## Verify: Can I see my Arduino in the list of ports in the IDE?
+if so let's move on
++++
+### set this circuit in your breadboard
+![LDR sensor](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506369513/ldr_arduino_ppac8t.jpg)
 ---
 ### Distance
 Ultrasonic sensor
