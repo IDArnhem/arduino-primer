@@ -136,16 +136,19 @@ load it from the **examples > basics > Blink** menu
 ### demo
 ###### reading the LDR sensor with Arduino
 ---
+## CHOICE
+#### of sensors
++++
 ### Distance
 Ultrasonic sensor
 IR sensor
 Compound eye sensor
----
++++
 ### Smoke, gas and alcohol
 
 MQ-2 smoke sensor
 Alcohol (breathalyzer)
----
++++
 ### Touch
 
 Button
@@ -156,25 +159,24 @@ Capacitive sensing
   - QT113
   better when your laptop is connected to power
 Flexiforce
----
++++
 ### Movement
 
 Tilt sensor
 Vibration sensor
 Knob
 Joystick
----
++++
 ### Acceleration
 Accelerometer
 Gyroscope
-
----
++++
 ### Light
 
 LDR
 Flame sensor
 Color sensor
----
++++
 ### Weather
 
 Altimeter
@@ -184,20 +186,20 @@ Temperature
 Soil humidity
 Atmospheric humidity
 
----
++++
 ### Identity
 
 Fingerprint scanner
 RFID
 Keypad
----
++++
 ### Electricity and magnetism
 
 Magnetometer
 Hall effect sensor (magnetic fields)
 Compass
 Solar cell
----
++++
 ### Sound
 
 Microphone
