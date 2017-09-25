@@ -4,40 +4,40 @@
 
 Note:
 open your calculator app in your phone, calculate something (anything) Didn't that feel a little glassy?
----
++++
 ![glasspiano](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelDevice_e8h2rc.jpg)
----
++++
 ### the "pictures through glass" paradigm
 is far older than the touchscreen of our phones
----
++++
 ![windows 95](http://res.cloudinary.com/zilogtastic/image/upload/v1506376449/WIndows_95_bevm6d.png)
----
++++
 ![Tool](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/Tool1_upnuaf.png)
 ###### I like Bret Victor's definition: A tool addresses human needs by amplifying human capabilities.
 That is, a tool converts what we can do into what we want to do.
----
++++
 ![Tool 2](http://res.cloudinary.com/zilogtastic/image/upload/c_mfit,h_420/v1506376281/Tool2_j3mkqo.png)
 A great tool is designed to fit both sides.
----
++++
 #### the future as seen from 2011
 ![future](http://res.cloudinary.com/zilogtastic/image/upload/v1506376281/hands_sjrwis.png)
----
++++
 ![hands!](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/TitleHands_ujslg3.png)
----
++++
 ![hands feel things!](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/TitleFeel_rwk04m.png)
----
++++
 ![book](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelBook_e0s5e7.jpg)
----
++++
 ![hands manipulate things](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/TitleManipulate_a0ejyv.png)
----
++++
 ![this is how we interact with our devices](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/ManipSlide_i4dhsg.jpg)
----
++++
 ![this is where else we use it](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/FingerPaint_afgc5u.jpg)
----
++++
 ![manipulating](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Hands_wixb1m.jpg)
----
++++
 ![grips](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Grips_nbp12q.jpg)
----
++++
 ![opening jar](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Jar_daef6f.jpg)
 ---
 ## Physical Computing (PhysComp)
