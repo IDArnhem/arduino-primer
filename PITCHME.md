@@ -13,8 +13,9 @@ is far older than the touchscreen of our phones
 ![windows 95](http://res.cloudinary.com/zilogtastic/image/upload/v1506376449/WIndows_95_bevm6d.png)
 +++
 ![Tool](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/Tool1_upnuaf.png)
-###### I like Bret Victor's definition: A tool addresses human needs by amplifying human capabilities.
-That is, a tool converts what we can do into what we want to do.
+I like [Bret Victor's](http://www.worrydream.com) definition
+#### a tool addresses human needs by amplifying human capabilities
+That is, a tool converts what we can do into what we want to do
 +++
 ![Tool 2](http://res.cloudinary.com/zilogtastic/image/upload/c_mfit,h_420/v1506376281/Tool2_j3mkqo.png)
 A great tool is designed to fit both sides.
