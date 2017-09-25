@@ -42,25 +42,20 @@ A great tool is designed to fit both sides.
 ---
 ## Physical Computing (PhysComp)
 making computers understand the physical world around us
----
++++
 ![Klima Kontrol by Roel Wouters](https://www.youtube.com/embed/s2fTLKIs9Z4)
----
++++
 ### how the computer sees you
 
 ![Tom Igoe Human](http://res.cloudinary.com/zilogtastic/image/upload/v1505408559/igoefinger_ie2ihx.jpg)
-
 +++
-
-Touchscreens, touchpads and Kinect have changed this perception a little but it remains largely the same.
-
+Touchscreens, touchpads and the Kinect have changed this perception a little but it remains largely the same.
 +++
 ### Kinect
 ![Skeletal tracking](http://res.cloudinary.com/zilogtastic/image/upload/v1505408570/kinect4_wnlfpb.png)
 
-
 The Kinect introduced skeletal tracking for full-body interactions but as you can see the image that the computer has of the human is still **reductionist** at best.
-
----
++++
 ## electronics
  let us bridge the gap
 **between the digital world**
