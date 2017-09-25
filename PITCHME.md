@@ -42,13 +42,15 @@ I'm sure you have heard about this Arduino thing.
 
 notes: microcontrollers far exceed the number of computers in the world and they have been around for a very long time
 ---
+![sensors and actuators](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506374484/sensors_and_actuators_xhuves.png)
+---
 ## Sensing the world around you
 sensors and what they do
 ---
 ## What is a sensor?
 A sensor is an electronic device that can transform a physical property of our world into an electrical signal that a computer can understand.
 
-In effect, the only thing that you ever need to know about a sensor is that it is "a value that moves through time". People in finance call that a "ticker" in EE it's called a "signal" in electronic music they call it a "control signal" but in all of them they mean "a value that moves through time". 
+In effect, the only thing that you ever need to know about a sensor is that it is "a value that moves through time". People in finance call that a "ticker" in EE it's called a "signal" in electronic music they call it a "control signal" but in all of them they mean "a value that moves through time".
 ---
 ## There are (for now) two types of sensors
 We can classify them according to the kind of signal that they produce:
