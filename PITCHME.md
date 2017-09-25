@@ -1,16 +1,15 @@
-## we are in the "pictures through glass" age of interaction
+### we are in the "pictures through glass" age of interaction
 
 notes: open your calculator app in your phone, calculate something (anything) Didn't that feel a little glassy?
 ---
-## the "pictures through glass" paradigm
+### the "pictures through glass" paradigm
 is far older than the touchscreen of our phones
 
 ---
 ## Physical Computing (PhysComp)
 making computers understand the physical world around us
-
+---
 ![Klima Kontrol by Roel Wouters](https://www.youtube.com/embed/s2fTLKIs9Z4)
-
 ---
 ### how the computer sees you
 
