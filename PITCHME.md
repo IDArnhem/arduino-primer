@@ -1,6 +1,7 @@
 ### we are in the "pictures through glass" age of interaction
 
-notes: open your calculator app in your phone, calculate something (anything) Didn't that feel a little glassy?
+Note:
+open your calculator app in your phone, calculate something (anything) Didn't that feel a little glassy?
 ---
 ### the "pictures through glass" paradigm
 is far older than the touchscreen of our phones
