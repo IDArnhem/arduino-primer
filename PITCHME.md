@@ -16,7 +16,7 @@ is far older than the touchscreen of our phones
 ###### I like Bret Victor's definition: A tool addresses human needs by amplifying human capabilities.
 That is, a tool converts what we can do into what we want to do.
 ---
-![Tool 2](http://res.cloudinary.com/zilogtastic/image/upload/v1506376281/Tool2_j3mkqo.png)
+![Tool 2](http://res.cloudinary.com/zilogtastic/image/upload/c_mfit,h_420/v1506376281/Tool2_j3mkqo.png)
 A great tool is designed to fit both sides.
 ---
 ## Physical Computing (PhysComp)
