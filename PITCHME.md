@@ -48,6 +48,8 @@ making computers understand the physical world around us
 ### how the computer sees you
 
 ![Tom Igoe Human](http://res.cloudinary.com/zilogtastic/image/upload/v1505408559/igoefinger_ie2ihx.jpg)
+Note:
+Tom Igoe, 2003
 +++
 Touchscreens, touchpads and the Kinect have changed this perception a little but it remains largely the same.
 +++
