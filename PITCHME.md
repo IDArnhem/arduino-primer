@@ -1,4 +1,6 @@
-### we are in the "pictures through glass" age of interaction
+#### we are in the
+## "pictures through glass"
+### age of interaction
 
 Note:
 open your calculator app in your phone, calculate something (anything) Didn't that feel a little glassy?
