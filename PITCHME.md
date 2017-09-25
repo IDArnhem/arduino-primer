@@ -70,7 +70,8 @@ The Kinect introduced skeletal tracking for full-body interactions but as you ca
 ---
 I'm sure you have heard about this Arduino thing.
 ---
-## Arduino is a microcontroller
+## Arduino
+#### is a platform to program microcontrollers
 (think of it as a wee little computer if you will)
 ---
 ## A microcontroller
