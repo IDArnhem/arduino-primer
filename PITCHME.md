@@ -108,13 +108,13 @@ what are all these weird objects?
 #### the arduino platform: the NANO
 ![Arduino NANO](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_520/v1506370085/ARDUINO_NANO_03_ltdqb1.png)
 +++
+### If you have a cheap Arduino clone, get the driver
+[CH340G serial driver install](https://kig.re/2014/12/31/how-to-use-arduino-nano-mini-pro-with-CH340G-on-mac-osx-yosemite.html)
++++
 ### Download and install the software (IDE)
 [get a recent version, greater than 1.8](https://www.arduino.cc/en/Main/Software)
 +++
 ### What's in the IDE?
-+++
-### Cheap Chinese Arduinos
-[CH340G serial driver install](https://kig.re/2014/12/31/how-to-use-arduino-nano-mini-pro-with-CH340G-on-mac-osx-yosemite.html)
 +++
 ## Mac only: Disable System Integrity Protection
 [Disable SIP](https://tzapu.com/making-ch340-ch341-serial-adapters-work-under-el-capitan-os-x/)
