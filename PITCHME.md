@@ -83,7 +83,7 @@ sensors and what they do
 ## What is a sensor?
 A sensor is an electronic device that can transform a physical property of our world into an electrical signal that a computer can understand.
 
-In effect, the only thing that you ever need to know about a sensor is that it is "a value that moves through time". People in finance call that a "ticker" in EE it's called a "signal" in electronic music they call it a "control signal" but in all of them they mean "a value that moves through time".
+The only thing that you need to know about a sensor for now is that it is "a value that moves through time". People in finance call that a "ticker" in EE it's called a "signal" in electronic music they call it a "control signal" but in all of them they mean "a value that moves through time".
 ---
 ## There are (for now) two types of sensors
 We can classify them according to the kind of signal that they produce:
@@ -141,7 +141,7 @@ Ultrasonic sensor
 IR sensor
 Compound eye sensor
 ---
-### Smoke, gas and booze
+### Smoke, gas and alcohol
 
 MQ-2 smoke sensor
 Alcohol (breathalyzer)
