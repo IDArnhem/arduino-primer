@@ -1,7 +1,9 @@
 // install the Arduino SC Quarks
-Quarks.update("arduino");
-Quarks.install("arduino");
-Quarks.gui;
+// Quarks.update("arduino");
+// Quarks.install("arduino");
+// Quarks.gui;
+
+Quarks.install("https://github.com/supercollider-quarks/Arduino.git");
 
 // create an Arduino instance
 
