@@ -178,7 +178,7 @@ Are kinds of signals that can be (continually) measured and monitored from biolo
 - Pulse oxymeter (pulse / light) aka [PPG photoplethysmography](https://www.google.com/search?q=ppg+sensor&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg2vSDo8TeAhWtPOwKHZF2AtoQ_AUIDigB&biw=1099&bih=612)
 - GSR (galvanic skin response, aka EDA electro dermal activity)
 - Esthetoscope (sound)
-- Ultrasound (device to listen to baby's heart)
+- Ultrasound (baby's heart monitor)
 +++
 ### Biosignals (acustic)
 - Breathing rhythm (lungs)
