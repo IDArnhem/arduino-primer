@@ -101,67 +101,95 @@ setup your breadboard
 #### of sensors
 +++
 ### Distance
-Ultrasonic sensor
-IR sensor
-Compound eye sensor
+- [Ultrasonic rangefinder](https://www.google.com/search?q=Ultrasonic+sensor)
+- [IR sensor](https://www.google.com/search?q=IR+sensor)
+### Presence & motion
+- [PIR sensor](https://www.google.com/search?q=PIR+sensor) (passive infrared)
 +++
 ### Smoke, gas and alcohol
-
-MQ-2 smoke sensor
-Alcohol (breathalyzer)
+- [MQ-2 smoke sensor](https://www.google.com/search?q=MQ-2+smoke+sensor)
+- [MQ-3 Alcohol-ethanol (breathalyzer)](https://www.google.com/search?q=MQ-3+smoke+sensor)
 +++
 ### Touch
-
-Button
-Switch
-Potentiometer
-Capacitive sensing
+- Button
+- Switch
+- [Potentiometer](https://www.google.com/search?q=potentiometer)
+- Capacitive sensing
   - simple resistor circuit
-  - QT113
-  better when your laptop is connected to power
-Flexiforce
+  - [QT113](https://www.google.com/search?q=QT113+sensor)
 +++
 ### Movement
-
-Tilt sensor
-Vibration sensor
-Knob
-Joystick
+- Tilt sensor
+- Vibration sensor
+- Joystick
 +++
 ### Acceleration
-Accelerometer
-Gyroscope
+- Accelerometer
+- Gyroscope
+- IMU (Inertial motion unit, 9-DoF)
 +++
 ### Light
-
-LDR
-Flame sensor
-Color sensor
+- LDR
+- Flame sensor
+- Color sensor (RGB)
+- Camera (3CCD)
+- Thermal camera
 +++
 ### Weather
-
-Altimeter
-Atmospheric pressure
-Wind (anemometer)
-Temperature
-Soil humidity
-Atmospheric humidity
-
+- Barometric pressure
+- Wind (anemometer)
+- Temperature
+- Soil humidity
+- Atmospheric humidity
 +++
 ### Identity
-
-Fingerprint scanner
-RFID
-Keypad
+- [Fingerprint scanner](https://www.google.com/search?q=fingerprint+sensor)
+- RFID/NFC
+- Keypad
 +++
 ### Electricity and magnetism
-
-Magnetometer
-Hall effect sensor (magnetic fields)
-Compass
-Solar cell
+- Magnetometer
+- Hall effect sensor (magnetic fields)
+- Compass
+- Solar cell
 +++
 ### Sound
-
-Microphone
-Clap sensor
+- Microphone
+- Clap sensor
++++
+### Biosignals
+Are kinds of signals that can be (continually) measured and monitored from biological beings. The term biosignal is often used to mean bio-electrical signal but in fact, biosignal refers to both electrical and non-electrical signals.
++++
+### Biosignals (electrical)
+- [EEG (electroencephalogram)](https://www.google.com/search?&q=EEG)
+- EKG/ECG (electrocardiogram) 
+- EMG (electromyographer)
+- Respiration
+- Goniometer (position / angle)
+- Pulse oxymeter (pulse / light) aka [PPG photoplethysmography](https://www.google.com/search?q=ppg+sensor&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg2vSDo8TeAhWtPOwKHZF2AtoQ_AUIDigB&biw=1099&bih=612)
+- GSR (galvanic skin response, aka EDA electro dermal activity)
+- Esthetoscope (sound)
+- Ultrasound (device to listen to baby's heart)
++++
+### Biosignals (acustic)
+- Breathing rhythm (lungs)
+- Muscles
+- Heart
+- Gut
++++
+Most biosignals are either electrically weak or acoustically weak and they all are fairly complex, so they require heavy amplification are prone to noise and require extensive digital signal processing (DSP) before they can be used.
++++
+### Example QRS complex
+![QRS complex](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SinusRhythmLabels.svg/1103px-SinusRhythmLabels.svg.png)
++++
+### Brain activity
+- [MUSE headband](https://choosemuse.com/)
+- [Emotiv headset](https://www.emotiv.com/)
+- [HOLST Centre](https://www.google.com/search?q=holst+centre+EEG+headset)
++++
+- [EEG kiss sketch](https://vimeo.com/113102248)
+- [EEG kiss theatrical setup](https://vimeo.com/158300331)
++++
+### Biosensing platforms
+- [BITalino](http://bitalino.com/en/)
+- [BITalino sensor kit](http://biosignalsplux.com/en/products/sensors)
