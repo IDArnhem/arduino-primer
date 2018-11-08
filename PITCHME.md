@@ -115,7 +115,7 @@ setup your breadboard
 - Switch
 - [Potentiometer](https://www.google.com/search?q=potentiometer)
 - Capacitive sensing
-  - simple resistor circuit
+  - simple resistor circuit (see cap. sensing slides)
   - [QT113](https://www.google.com/search?q=QT113+sensor)
 +++
 ### Movement
@@ -128,7 +128,7 @@ setup your breadboard
 - Gyroscope
 - IMU (Inertial motion unit, 9-DoF)
 +++
-![YCAM Awareness in Motion](https://vimeo.com/61942488)
+![YCAM Awareness in Motion](https://player.vimeo.com/video/61942488)
 +++
 ### Light
 - LDR
@@ -149,7 +149,7 @@ setup your breadboard
 where he installed a weather station on top of the Southbank Centre in London and used the data generated, including wind speed and air pressure, to determine the path of an "imaginary mad airship". The program logs its theoretical position on Google Maps and gathers streams of information from the internet that are tagged with that location, using them to generate tweets and a log that combine a selection of words it picks up. [from Dezeen](https://www.dezeen.com/2012/10/02/the-internet-has-escaped-out-into-the-street-says-james-bridle/)
 +++
 Weather thingy by Adrian Kaeser
-![Weather thingy](https://vimeo.com/292088058)
+![Weather thingy](https://player.vimeo.com/video/292088058)
 +++
 ### Identity
 - [Fingerprint scanner](https://www.google.com/search?q=fingerprint+sensor)
@@ -189,15 +189,15 @@ Are kinds of signals that can be (continually) measured and monitored from biolo
 Most biosignals are either electrically weak or acoustically weak and they all are fairly complex, so they require heavy amplification are prone to noise and require extensive digital signal processing (DSP) before they can be used.
 +++
 ### Example QRS complex
-![QRS complex](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SinusRhythmLabels.svg/1103px-SinusRhythmLabels.svg.png)
+![QRS complex](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/QRS_complex.png/220px-QRS_complex.png)
 +++
 ### Brain activity
 - [MUSE headband](https://choosemuse.com/)
 - [Emotiv headset](https://www.emotiv.com/)
 - [HOLST Centre](https://www.google.com/search?q=holst+centre+EEG+headset)
 +++
-- [EEG kiss sketch](https://vimeo.com/113102248)
-- [EEG kiss theatrical setup](https://vimeo.com/158300331)
+- [EEG kiss sketch](https://player.vimeo.com/video/113102248)
+- [EEG kiss theatrical setup](https://player.vimeo.com/video/158300331)
 +++
 ### Biosensing platforms
 - [BITalino](http://bitalino.com/en/)
