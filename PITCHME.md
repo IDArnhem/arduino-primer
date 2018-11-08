@@ -128,9 +128,12 @@ setup your breadboard
 - Gyroscope
 - IMU (Inertial motion unit, 9-DoF)
 +++
+![YCAM Awareness in Motion](https://vimeo.com/61942488)
++++
 ### Light
 - LDR
 - Flame sensor
+- UV index sensor
 - Color sensor (RGB)
 - Camera (3CCD)
 - Thermal camera
@@ -141,6 +144,12 @@ setup your breadboard
 - Temperature
 - Soil humidity
 - Atmospheric humidity
++++
+[James Bridle's A Ship Adrift](https://jamesbridle.com/works/a-ship-adrift)
+where he installed a weather station on top of the Southbank Centre in London and used the data generated, including wind speed and air pressure, to determine the path of an "imaginary mad airship". The program logs its theoretical position on Google Maps and gathers streams of information from the internet that are tagged with that location, using them to generate tweets and a log that combine a selection of words it picks up. [from Dezeen](https://www.dezeen.com/2012/10/02/the-internet-has-escaped-out-into-the-street-says-james-bridle/)
++++
+Weather thingy by Adrian Kaeser
+![Weather thingy](https://vimeo.com/292088058)
 +++
 ### Identity
 - [Fingerprint scanner](https://www.google.com/search?q=fingerprint+sensor)
